@@ -1,2 +1,2 @@
-# Онлайн Кинотеатр | Front-End
-Full-Stack приложение - Онлайн Кинотеатр.
+# Online-Cinema | Front-End часть
+Full-Stack приложение с нуля - Online Cinema.
